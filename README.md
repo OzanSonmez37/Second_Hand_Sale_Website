@@ -14,7 +14,7 @@ Browse by category, filter products, and post your own listings! 📱🧥🚗
 
 🛠️ Tech Stack
 
-- HTML, CSS, JavaScript  
+- HTML, CSS
 
 
 
